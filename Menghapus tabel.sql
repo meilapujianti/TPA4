@@ -1,0 +1,1 @@
+drop table pengiriman_barang;
